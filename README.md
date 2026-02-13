@@ -1,5 +1,5 @@
 # Profile
-<b>Hello!</b>
-I am a web communications specialist who is hoping to get more involved in the backend of web. 
-I am finding it very <i>fun</i> to learn a new tool. 
+Hello!
+I am a web communications specialist who is passionate about plain language, accessibility and good user design.
+When I'm not working you can find me hiking somewhere with my two dogs. 
 I look forward to discovering what others are working on. 
